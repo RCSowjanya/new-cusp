@@ -21,7 +21,7 @@ const GetQuoteEditable = () => {
               id="name"
               name="name"
               className="px-2 py-5 text-[14px] max-[600px]:text-[12px] font-[400] w-full rounded-md shadow-sm placeholder-[#8A6112] outline-none focus:outline-none"
-              placeholder="Please "
+              placeholder="Enter Your Name"
               required
             />
           </div>
